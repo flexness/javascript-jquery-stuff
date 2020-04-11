@@ -1,1 +1,1 @@
-"# js jq stuff" 
+# js jq stuff
